@@ -1,0 +1,23 @@
+Sorting array1 with Bubble Sort:
+7: # of times 0 is swapped
+13: # of times 3 is swapped
+16: # of times 3 is swapped
+22: # of times 4 is swapped
+45: # of times 3 is swapped
+58: # of times 2 is swapped
+63: # of times 2 is swapped
+72: # of times 1 is swapped
+97: # of times 1 is swapped
+Total # of swaps: 19
+
+Sorting array2 with Selection Sort:
+10: # of times 1 is swapped
+20: # of times 1 is swapped
+30: # of times 1 is swapped
+40: # of times 1 is swapped
+50: # of times 0 is swapped
+60: # of times 0 is swapped
+70: # of times 0 is swapped
+80: # of times 0 is swapped
+90: # of times 0 is swapped
+Total # of swaps: 4
